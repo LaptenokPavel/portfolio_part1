@@ -1,0 +1,21 @@
+.remoteWorkBlock {
+    height: 20vh;
+    background-color:blanchedalmond;
+
+}
+
+.remoteWork{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    background-color: #e3d4d4;
+    margin-top: 0px;
+}
+
+.button{
+    margin-bottom: 20px;
+}

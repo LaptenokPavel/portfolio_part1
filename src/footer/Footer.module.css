@@ -1,0 +1,42 @@
+.footerBlock {
+    height: 20vh;
+    background-color:aquamarine;
+}
+
+.footerContainer{
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #e3d4d4;
+}
+
+.footer{
+    width: 350px;
+    height: 30px;
+    border: 1px solid;
+    display: flex;
+    
+}
+
+.black{
+    height: 100%;
+    width: 50px;
+    background-color: black;
+    flex-grow: 1;
+}
+
+.white{
+    height: 100%;
+    width: 50px;
+    background-color: white;
+    flex-grow: 1;
+}
+
+.reserved{
+    background-color: blueviolet;
+}

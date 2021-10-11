@@ -16,7 +16,7 @@
 }
 
 .footer{
-    width: 350px;
+    width: 50%;
     height: 30px;
     border: 1px solid;
     display: flex;
@@ -25,14 +25,14 @@
 
 .black{
     height: 100%;
-    width: 50px;
+    max-width: 50px;
     background-color: black;
     flex-grow: 1;
 }
 
 .white{
     height: 100%;
-    width: 50px;
+    max-width: 50px;
     background-color: white;
     flex-grow: 1;
 }
